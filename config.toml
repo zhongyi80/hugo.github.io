@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo Learn Documentation"
+title = "Hello notes "
 theme = "hugo-theme-learn"
 themesdir = "./themes"
 metaDataFormat = "yaml"
@@ -25,7 +25,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Hello zhong"
 weight = 1
 languageName = "English"
 landingPageURL = "/en"
